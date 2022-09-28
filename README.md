@@ -20,7 +20,7 @@ For browser
 4. navitage to localhost:3001 in your browser of choice and enjoy!
 
 For local desktop
-1. Initialize steps for browser (above) OR [click here for deployed application](https://text-editor-jate312.herokuapp.com/)
+1. Initialize steps for browser (above) OR [click here for deployed application](https://text-editor-jate555.herokuapp.com/)
 2. Click the install button on the top left hand corner of the page
 3. The application should appear on your desktop 
 
